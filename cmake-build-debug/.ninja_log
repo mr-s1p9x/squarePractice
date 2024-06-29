@@ -1,0 +1,11 @@
+# ninja log v5
+4	432	1719655653310987491	CMakeFiles/29June_Lesson_Pracice.dir/circle.cpp.o	5f77527c0b916284
+3	486	1719656325967011519	CMakeFiles/29June_Lesson_Pracice.dir/main.cpp.o	38da9327e6ebbec2
+5	591	1719655525006472804	CMakeFiles/29June_Lesson_Pracice.dir/Figure.cpp.o	fb8a26fccd61aa6c
+5	588	1719655525001206695	CMakeFiles/29June_Lesson_Pracice.dir/rectangle.cpp.o	549e3e6546cb3576
+487	579	1719656326061712901	29June_Lesson_Pracice	6af8d9979b18c541
+7	555	1719656294806038915	CMakeFiles/29June_Lesson_Pracice.dir/triangle.cpp.o	287093cb8b06dd71
+4	486	1719656572212419397	CMakeFiles/29June_Lesson_Pracice.dir/square.cpp.o	880e60bdeaa23241
+487	637	1719656572361815729	29June_Lesson_Pracice	2a5d4b2ab7187231
+4	503	1719656613657739875	CMakeFiles/29June_Lesson_Pracice.dir/main.cpp.o	38da9327e6ebbec2
+504	601	1719656613757215654	29June_Lesson_Pracice	2a5d4b2ab7187231
